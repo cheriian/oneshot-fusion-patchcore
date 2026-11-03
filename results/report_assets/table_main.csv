@@ -1,0 +1,6 @@
+Method,Image AUROC,Pixel AUROC,s/img
+"Paper, PatchCore-10 (Table S5)",83.4 ± 0.6,92.0 ± 0.2,-
+"Paper, PatchCore-25 (reference)",84.1 ± 0.7,92.4 ± 0.3,-
+WRN-50 (repro.),83.29 ± 1.42,91.89 ± 0.32,0.076
+DINOv2,85.62 ± 0.83,91.93 ± 0.57,0.042
+Fusion,88.05 ± 0.87,94.50 ± 0.24,0.050

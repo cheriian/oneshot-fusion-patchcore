@@ -1,0 +1,8 @@
+,img_auroc,img_auroc,pix_auroc,pix_auroc
+,mean,std,mean,std
+model,,,,
+A. WRN-50 (official),83.29,1.42,91.89,0.32
+"B. WRN-50, L2-norm (alpha=1)",81.95,1.16,91.5,0.31
+"C. DINOv2, 16x16 grid",85.62,0.83,91.93,0.57
+"D. DINOv2, 28x28 grid (alpha=0)",88.08,0.88,93.8,0.29
+E. Fusion (alpha=0.5),88.05,0.87,94.5,0.24
